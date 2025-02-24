@@ -1,6 +1,5 @@
-# Ekoparty Summer Workshop 2025
-
-Welcome to the Hunting Threats as Cybersecurity Ninja Workshop! 
+# Welcome to the Hunting Threats as Cybersecurity Ninja Workshop! 
+## Ekoparty Summer Workshop 2025
 
 This repository contains all the materials and resources you'll need to perform the practical exercises presented in the Ekoparty Summer Workshop webinar. Whether you're a seasoned cybersecurity professional or just starting out, this workshop will provide you with the knowledge and skills to proactively search for and mitigate advanced threats within your organization's network.
 
